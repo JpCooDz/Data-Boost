@@ -1,5 +1,7 @@
 # 🚀 Data Boost
 
+<img src="https://i.ibb.co/sJgnbzSp/Captura-de-tela-2025-02-16-003238.png">
+
 O **Data Boost** é uma ferramenta completa para **otimização de computadores**, oferecendo desempenho máximo com praticidade e rapidez. Desenvolvido para usuários que buscam eficiência, ele reúne diversas funcionalidades em um só lugar.
 
 ### 📌 Principais Ferramentas
@@ -63,6 +65,19 @@ O **Data Boost** é uma ferramenta completa para **otimização de computadores*
 
 - **Ativar Modo de Jogo**
 - **Desativar Xbox Live e Xbox Game Bar**
+
+<div style="display: flex; gap: 10px;">
+    <img src="https://i.ibb.co/zhQgpkpr/1.png" width="300">
+    <img src="https://i.ibb.co/fYbRxF6T/2.png" width="300">
+</div>
+
+<br> <!-- Espaço entre os grupos -->
+
+<div style="display: flex; gap: 10px;">
+    <img src="https://i.ibb.co/v6DXjhSh/3.png" width="300">
+    <img src="https://i.ibb.co/27xJD9zL/4.png" width="300">
+</div>
+
 
 ## 💻 Requisitos do Sistema
 
