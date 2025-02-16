@@ -1,0 +1,4 @@
+[2480:1612:0205/220338.381:VERBOSE1:installer.cc(429)] "C:\Users\jpcgo\Downloads\Instaladores\Google_Chrome_installer.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&browser=0&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&brand=GTPM --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[2480:1612:0205/220342.395:VERBOSE1:installer.cc(541)] Metainstaller WMain returning: 3
+[11476:2620:0209/000937.402:VERBOSE1:installer.cc(429)] "C:\Users\jpcgo\Downloads\Instaladores\Google_Chrome_installer.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&browser=0&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&brand=GTPM --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[11476:2620:0209/000941.375:VERBOSE1:installer.cc(541)] Metainstaller WMain returning: 3
