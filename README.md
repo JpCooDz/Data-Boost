@@ -67,15 +67,15 @@ O **Data Boost** é uma ferramenta completa para **otimização de computadores*
 - **Desativar Xbox Live e Xbox Game Bar**
 
 <div style="display: flex; gap: 10px;">
-    <img src="https://i.ibb.co/zhQgpkpr/1.png" width="300">
-    <img src="https://i.ibb.co/fYbRxF6T/2.png" width="300">
+    <img src="https://i.ibb.co/zhQgpkpr/1.png" width="600">
+    <img src="https://i.ibb.co/fYbRxF6T/2.png" width="600">
 </div>
 
 <br> <!-- Espaço entre os grupos -->
 
 <div style="display: flex; gap: 10px;">
-    <img src="https://i.ibb.co/v6DXjhSh/3.png" width="300">
-    <img src="https://i.ibb.co/27xJD9zL/4.png" width="300">
+    <img src="https://i.ibb.co/v6DXjhSh/3.png" width="600">
+    <img src="https://i.ibb.co/27xJD9zL/4.png" width="600">
 </div>
 
 
