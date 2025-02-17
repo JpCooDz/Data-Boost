@@ -21,7 +21,7 @@ O **Data Boost** é uma ferramenta completa para **otimização de computadores*
   Solução rápida e segura para ativação do Windows e do Microsoft Office, garantindo total compatibilidade e estabilidade, além de instalação de softwares.
 - 📦 **Instalação de Programas Facilitada:**  
   Instale pacotes de software essenciais de forma automatizada e sem complicações, economizando tempo e esforço.
-❌ Remoção de Programas:Desinstale programas indesejados de forma rápida e eficiente, liberando espaço e melhorando o desempenho do sistema.
+- ❌ Remoção de Programas:Desinstale programas indesejados de forma rápida e eficiente, liberando espaço e melhorando o desempenho do sistema.
 - ⚙️ **Desativação de Recursos do Windows:**  
   Melhore o desempenho do sistema desativando serviços e recursos do Windows que não são utilizados, otimizando o consumo de memória e processamento.
 
